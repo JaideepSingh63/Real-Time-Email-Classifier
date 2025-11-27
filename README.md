@@ -1,11 +1,11 @@
-# 📧 Real-Time Email Classifier
+#  Real-Time Email Classifier
 
 A machine learning–powered system that classifies incoming emails in real time into categories such as **Spam**, **Important**, and **General** using **NLP preprocessing**, **TF-IDF feature extraction**, and **Scikit-Learn models**.  
 This project demonstrates a complete end-to-end ML pipeline — from data cleaning to real-time predictions.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Real-time email text classification  
 - Spam / Non-spam / Category-based filtering  
@@ -17,7 +17,7 @@ This project demonstrates a complete end-to-end ML pipeline — from data cleani
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. Email text is collected (real-time input or dataset)  
 2. Text is cleaned using NLP preprocessing  
@@ -27,7 +27,7 @@ This project demonstrates a complete end-to-end ML pipeline — from data cleani
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **email**, **imap**
 - **Python**  
 - **Pandas**, **NumPy**  
@@ -39,7 +39,7 @@ This project demonstrates a complete end-to-end ML pipeline — from data cleani
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - Custom dataset containing labeled emails  
 - Includes spam, promotional, important, and general categories  
